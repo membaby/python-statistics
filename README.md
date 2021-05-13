@@ -5,7 +5,7 @@ Includes solutions to tasks related to real life problems.
 - **Problem:** We have a square ABCD with side lengths 4.0 cm. An area is bounded by two circles centered at corners B and D. 
 - **Required:** Estimate the area of the bounded part.
 - **Given:**
-* ![Image of Square](https://i.imgur.com/ZzVIq6o.png)
+> ![Image of Square](https://i.imgur.com/ZzVIq6o.png)
 
 - **Solution:**
 Area of square = 4 * 4 = 16.0 cm2.
